@@ -4,7 +4,7 @@
 
 Ranieri, C.M., Foletto, A.V., Garcia, R.D., Matos, S.N., Medina, M.M., Marcolino, L.S. and Ueyama, J., 2024. Water level identification with laser sensors, inertial units, and machine learning. _Engineering Applications of Artificial Intelligence_, 127, p.107235.
 
-You can check the original paper [here]{https://authors.elsevier.com/a/1hvOs3OWJ94sCr}.
+You can check the original paper [here](https://authors.elsevier.com/a/1hvOs3OWJ94sCr).
 
 
 ## Descritpion
